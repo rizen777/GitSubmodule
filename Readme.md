@@ -1,0 +1,1 @@
+Git playground project for test submodules
